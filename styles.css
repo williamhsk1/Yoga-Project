@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+}
+
+.paragraph-1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+    color: #000000;
+    margin-top: 128px;
+    margin-left: 16px;
+}
+
+.paragraph-2 {
+    margin-top: 12px;
+    margin-left: 16px;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #808080;
+}
+
+.paragraph-3 {
+    margin-left: 16px;
+    margin-bottom: 102px;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #808080;
+}
+
+input {
+    display: block;
+    margin-top: 12px;
+    margin-left: 16px;
+    background: #F2F2F7;
+    border-radius: 6px;
+    height: 48px;
+    width: 343px;
+    border: none;
+}
+
+input::placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+    color: #929292;
+    padding-left: 14px;
+}
+
+.forgot-password {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #007AFF;
+    text-align: right;
+    display: block;
+    margin-top: 17px;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 343px;
+    height: 48px;
+    border-radius: 10px;
+    background: #000000;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+.dont-have-an-account {
+    display: block;
+    margin-top: 204px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #9D9D9D;
+    text-decoration: none;
+}
+
+strong {
+    color: #007AFF;
+}
