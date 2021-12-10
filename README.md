@@ -1,4 +1,4 @@
-# Yoga Interface
+### Yoga Project
 
 
 <img src="./assets/Yoga.png" alt="logo yoga">
