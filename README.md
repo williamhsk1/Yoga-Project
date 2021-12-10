@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/willz.jpg" width="100px;" alt="Foto do William Cruz"/><br>
+        <img src="./assets/willzz.jpg" width="100px;" alt="Foto do William Cruz"/><br>
         <sub>
           <b>William Cruz</b>
         </sub>
